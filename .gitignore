@@ -1,0 +1,5 @@
+#FOLDERS
+env/
+log/
+#files
+*__pycache*
